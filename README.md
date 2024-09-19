@@ -1,0 +1,1 @@
+# PlugDeviceIn2PowerOutlets_Adapter-Pattern
